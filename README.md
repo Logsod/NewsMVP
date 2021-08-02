@@ -1,6 +1,6 @@
 # NewsMVP
 
-Simple article list
+Articles list application over MVP pattern
 
 #Dependencies   
 [Java Rx](https://github.com/ReactiveX/RxAndroid)
